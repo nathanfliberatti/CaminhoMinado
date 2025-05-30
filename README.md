@@ -11,7 +11,7 @@ uma mesma posição.
 No vetor de inteiros -1 representará uma posição com
 bomba, 0 uma posição livre (sem bomba) 
 
-  e, 1 uma posilççao que estava livre e foi escolhida pelo usuário (sem explodir a bomba).
+  e, 1 uma posiçao que estava livre e foi escolhida pelo usuário (sem explodir a bomba).
 
    Para o usuário/jogador, inicialmente irá aparecer todas as posições do caminho como ? _ ?, 
 pois ele ainda não terá escolhido nenhuma posição. 
